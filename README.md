@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi there 👋, I'm Tanush</h1>
-<h3>Data is king and I love <i>serving</i> it!</h3>
+<h1>Hi there 👋, I'm Tanush!</h1>
+<h3>Data is king and I love <i>serving</i> it.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
